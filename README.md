@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betul</h1>
 <h3 align="center">I am a computer engineering student</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
