@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
 <h3 align="center">A passionate junior developer</h3>
 
-- 🔭 I’m currently working on **Smart Driver Tracking and Driving Analysis Reporting System**
+- 🔭 I’m currently working on **BCI Systems**
 
-- 🌱 I’m currently learning **mobile programming**
+- 🌱 I’m currently learning **machine learning**
 
 - 📫 How to reach me **betuullm01@gmail.com**
 
