@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BCI Systems**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **mobile programming**
 
 - 📫 How to reach me **betuullm01@gmail.com**
 
