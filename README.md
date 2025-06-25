@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
-<h3 align="center">A passionate junior developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on **BCI Systems**
 
-- 🌱 I’m currently learning **mobile programming**
+- 🌱 I’m currently learning **artificial intelligence**
 
 - 📫 How to reach me **betuullm01@gmail.com**
 
