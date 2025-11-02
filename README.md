@@ -3,19 +3,18 @@
 </div>
 <div align="center">
   
-### 👋 Hi, I'm Betül 
+<h1 align="center">Hi 👋, I'm Betül</h1>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Engineer+%7C+Researcher+Assitant" alt="Typing SVG" />
 </div>
 
-## 💜 About Me
+## ✨ About Me
 
-```python
-class Researcher:
-    def __init__(self):
-        self.role = "Master's Student & Research Assistant"
-        self.focus = ["Signal Processing", "Deep Learning", "BCI"]
-        self.current_work = "Brain signal analysis with deep learning"
-```
+- 🔭 I’m currently working on **BCI Systems**
+
+- 🌱 I’m currently learning **artificial intelligence**
+
+<br>
 
 ## 🛠️ Tech Arsenal
 
@@ -33,6 +32,7 @@ class Researcher:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+<br>
 
 ## 📊 GitHub Analytics
 
@@ -41,6 +41,7 @@ class Researcher:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=betuullm&theme=radical&hide_border=true&background=0d1117&ring=d946ef&fire=ec4899&currStreakLabel=d946ef&stroke=c9d1d9" alt="GitHub Streak" width="48%"/>
 </div>
 
+<br>
 
 ## 📫 Let's Connect!
 
