@@ -1,57 +1,58 @@
-<h1 align="center">Hi 👋, I'm Betül</h1>
-<h3 align="center">A passionate software developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **BCI Systems**
+# 💜 Hi, I'm Betül! 
 
-- 🌱 I’m currently learning **artificial intelligence**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D946EF&center=true&vCenter=true&width=435&lines=Computer+Engineer;Researcher+Assistant" alt="Typing SVG" />
 
-- 📫 How to reach me **betuullm01@gmail.com**
-# 👋 Hi, I'm Betül!
+</div>
 
-## 🛠️ Technologies & Tools
+## 🧠 About Me
 
-### Programming Languages
+Master's student specializing in **Brain-Computer Interfaces** and **Signal Processing**. I work with deep learning models for data analysis.
+
+## 🔬 Research Focus
+
+```python
+research_areas = {
+    "primary": "Brain-Computer Interfaces",
+    "signals": ["EEG", "Speech"],
+    "methods": "Deep Learning Models",
+    "application": "Data Processing & Analysis"
+}
+```
+
+## 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-## 🔬 Research Interests
-- 🧠 **EEG Signal Processing** - Brain-Computer Interfaces & Neural Signal Analysis
-- 🎵 **Audio Signal Processing** - Speech & Sound Analysis
-- 🖼️ **Computer Vision** - CNN Models & Image Classification
-- 🤖 **Deep Learning** - Neural Networks & Model Optimization
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=betuullm&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=betuullm&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=D946EF&icon_color=D946EF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betuullm&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=D946EF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betuullm&layout=compact&theme=radical)
+## 📫 Connect
 
-## 📚 Currently
-- 🔭 Working on my Master's thesis in Signal Processing
-- 🌱 Exploring advanced deep learning architectures for EEG analysis
-- 🎯 Building projects in audio and image processing
-- 📺 Binge-watching Seinfeld (currently on season __)
-
-## 📫 Connect With Me
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlFPNAn1IQSIA6Y/giphy.gif" width="150"/>
-  <p><i>"These pretzels are making me thirsty!" - Seinfeld</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=100&section=footer" width="100%"/>
 </div>
 
 ⭐️ Made with ❤️ by [betuullm](https://github.com/betuullm)
