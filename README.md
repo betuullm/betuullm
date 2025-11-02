@@ -4,15 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D946EF&center=true&vCenter=true&width=435&lines=Computer+Engineer;Researcher+Assistant" alt="Typing SVG" />
 
-</div>
-
-<br>
+</div> 
 
 ## 🧠 About Me
 
 Master's student working in **Signal Processing** using deep learning models. Interested in **Brain-Computer Interface** systems.
-
-<br>
 
 ## 🔬 Research Focus
 
@@ -21,8 +17,6 @@ Master's student working in **Signal Processing** using deep learning models. In
 **Signal Processing** • **Deep Learning** • **Brain-Computer Interfaces**
 
 </div>
-
-<br>
 
 ## 💻 Technologies
 
