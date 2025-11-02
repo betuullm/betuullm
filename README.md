@@ -1,60 +1,163 @@
+# 🎃 Welcome to My Haunted Code Lab 🎃
 
 <div align="center">
   
-<h1 align="center">Hi 👋, I'm Betül</h1>
+```ascii
+    ___                            ___
+   /   \                          /   \
+  | ◉ ◉ |    Welcome Brave Soul  | ◉ ◉ |
+   \___/                          \___/
+     |                              |
+    /|\          to the            /|\
+   / | \      Digital Realm       / | \
+    / \          of              / \
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Engineer+%7C+Researcher+Assitant" alt="Typing SVG" />
+### 🦇 Betül - AI Sorcerer & Code Conjurer 🦇
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=30&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=Brewing+AI+Potions+%F0%9F%A7%AA;Casting+Neural+Spells+%E2%9C%A8;Haunting+BCI+Systems+%F0%9F%A7%A0)](https://git.io/typing-svg)
+
 </div>
 
-## ✨ About Me
+---
 
-- 🔭 I’m currently working on **BCI Systems**
+## 🕷️ About This Mystical Being 🕷️
 
-- 🌱 I’m currently learning **artificial intelligence**
-
-<br>
-
-## 🛠️ Tech Arsenal
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betuullm&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=d946ef&icon_color=ec4899&text_color=c9d1d9&ring_color=d946ef&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betuullm&theme=radical&hide_border=true&background=0d1117&ring=d946ef&fire=ec4899&currStreakLabel=d946ef&stroke=c9d1d9" alt="GitHub Streak" width="48%"/>
-</div>
-
-<br>
-
-## 📫 Let's Connect!
+```python
+class AIWitch:
+    def __init__(self):
+        self.name = "Betül"
+        self.current_realm = "BCI Systems 🧠"
+        self.learning_spells = ["Artificial Intelligence", "Neural Networks"]
+        self.magic_level = "Ascending"
+        
+    def cast_spell(self):
+        return "Transforming neurons into intelligence ✨"
+```
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/yourprofile)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/your-id)
+🔮 **Currently Conjuring:** Brain-Computer Interface Systems  
+🌙 **Learning Dark Arts:** Artificial Intelligence & Deep Learning  
+🕯️ **Favorite Potion:** Coffee ☕ (Keeps the spirits alive)
 
 </div>
+
+---
+
+## 🎃 My Enchanted Arsenal 🎃
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=betuullm&style=for-the-badge&color=d946ef" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/betuullm?style=for-the-badge&color=ec4899&labelColor=0d1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/betuullm?style=for-the-badge&color=d946ef&labelColor=0d1117" alt="Stars"/>
+
+### 🧙‍♀️ Spellbooks & Incantations
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6600?style=for-the-badge&logo=brain&logoColor=white&labelColor=000000)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-8B00FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
+![BCI](https://img.shields.io/badge/Brain_Computer_Interface-FF3366?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000)
+
+### 🦴 Tools from the Crypt
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
+
 </div>
 
+---
 
+## 🕸️ GitHub Graveyard Stats 🕸️
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=betuullm&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6600&icon_color=FF6600&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=betuullm&theme=dracula&hide_border=true&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betuullm&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF" alt="Top Languages" width="48%" />
+
+</div>
+
+---
+
+## 🌑 Current Rituals 🌑
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((🧠 Betül's Journey))
+    🎃 BCI Systems
+      Neural Signals
+      Brain Waves
+      Signal Processing
+    🦇 AI Learning
+      Machine Learning
+      Deep Learning
+      Neural Networks
+    🕷️ Future Quests
+      Advanced AI
+      Research
+      Innovation
+```
+
+</div>
+
+---
+
+## 👻 Haunted Projects 👻
+
+<div align="center">
+
+🔮 *Brewing something mysterious...*  
+🧪 *Projects rising from the digital grave soon...*  
+⚡ *Stay tuned for magical creations!*
+
+</div>
+
+---
+
+## 🦇 Connect in the Shadow Realm 🦇
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow_My_Spells-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/betuullm)
+[![Email](https://img.shields.io/badge/Send_A_Raven-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎃 Trick or Treat? Choose Collaboration! 🎃
+
+```ascii
+     .--.                    .--.
+    ( (`'.\                /.'`) )
+     '.    `'.          .'`    .'
+       '.    '.        .'    .'
+         '.__.`-._  _.-`.__.'
+              `'||_||'`
+               _||||_
+              (______)
+       _______|______|_______
+      |  Thanks for visiting! |
+      |________________________|
+```
+
+<img src="https://komarev.com/ghpvc/?username=betuullm&color=FF6600&style=for-the-badge&label=SPIRITS+VISITED" alt="Profile Views" />
+
+**"In code we trust, in AI we conjure"** ✨
+
+</div>
+
+---
+
+<div align="center">
+  
+*🕷️ May your code be bug-free and your commits be plentiful 🕷️*
+
+⭐ **If you dare, star my repositories!** ⭐
+
+</div>
