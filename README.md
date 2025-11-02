@@ -8,15 +8,6 @@
 - 📫 How to reach me **betuullm01@gmail.com**
 # 👋 Hi, I'm Betül!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-</div>
-
-## 🚀 About Me
-I'm a Master's student specializing in **Signal Processing** with a passion for **EEG signal analysis**, **audio signal processing**, and **computer vision**. I love working with deep learning models, especially CNNs for image processing tasks.
-
-When I'm not analyzing signals or training models, you can find me watching Seinfeld! 📺
-
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
