@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-- 🔭 I’m currently working on **BCI Systems**
+- 🔭 I’m currently working on **Signal and Image Processing**
 
 - 🌱 I’m currently learning **artificial intelligence**
 
