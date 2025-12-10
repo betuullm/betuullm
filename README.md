@@ -8,7 +8,7 @@
 
 </div>
 
-## 🎅 About Me
+## About Me
 ```python
 class Developer:
     def __init__(self):
@@ -25,7 +25,7 @@ class Developer:
 
 </div>
 
-## 🎁 Technologies
+## Technologies
 
 <div align="center">
 
@@ -55,7 +55,7 @@ class Developer:
 
 </div>
 
-## ❄️ GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -72,7 +72,7 @@ class Developer:
 
 </div>
 
-## 🎊 Contact
+## Contact
 
 <div align="center">
 
@@ -91,8 +91,5 @@ class Developer:
 
 <img src="https://komarev.com/ghpvc/?username=betuullm&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-### ⭐ Happy New Year! 🎄
-
-**Wishing you a 2026 full of successful projects!** ✨
 
 </div>
