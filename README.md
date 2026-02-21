@@ -1,11 +1,62 @@
-<h1 align="center">Hi 👋, I'm Betul</h1>
-<h3 align="center">Computer Engineer | Research Assistant</h3>
 
-- 🔭 I’m currently working on **Signal Processing**
 
-- 🌱 I’m currently learning **BCI Systems**
+<div align="center">
 
-- 📫 How to reach me **betuullm01@gmail.com**
+# Hi, I'm Betul
+### Software Developer • Researcher
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I build intelligent systems at the intersection of **signal processing**, **neuroscience** and **AI-driven technologies**.
+
+<a href="mailto:betuullm01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-betuullm01%40gmail.com-2b2d42?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/betuullm" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-betuullm-2b2d42?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</div>
+
+<br/>
+
+<!-- Hero: GIF + quick facts -->
+<div>
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1qb3l3eHo1OHg1NTNtNHNyaHBzYjJzMHdra2o1a2dmYWtueWE4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aqF1NcZnoqr33Adnb9/giphy.gif"
+    width="220"
+    align="right"
+    style="margin-top:10px;"
+  />
+
+### About me 🪷
+- Focus: **data fusion**, **signal processing**
+- Currently building: *AI models*
+- Interested in: **BCI Systems**
+- Reach me: **betuullm01@gmail.com**
+
+</div>
+
+<br/>
+
+## Tech Stack 🫧
+<div align="left">
+
+<!-- Tech Stack Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-2b2d42?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2b2d42?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-2b2d42?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-2b2d42?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-2b2d42?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-2b2d42?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-2b2d42?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-2b2d42?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+</div>
+
+
+
+## GitHub Stats
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=betuullm&hide_border=true&background=0D1117&stroke=30363D&ring=DC2626&fire=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" />
+</p>
+
+</div>
+
+
