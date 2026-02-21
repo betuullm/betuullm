@@ -23,9 +23,9 @@ I build intelligent systems at the intersection of **signal processing**, **neur
     style="margin-top:10px;"
   />
 
-### About me 🪷
+## About me 
 - Focus: **data fusion**, **signal processing**
-- Currently building: *AI models*
+- Currently learning: **AI**
 - Interested in: **BCI Systems**
 - Reach me: **betuullm01@gmail.com**
 
