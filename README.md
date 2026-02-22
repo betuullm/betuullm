@@ -25,7 +25,7 @@ I build intelligent systems at the intersection of **signal processing**, **neur
   />
 
 
-### About me 🐦‍⬛
+### About me 
 
 - Focus: **data fusion**, **signal processing**
 - Currently learning: **AI**
