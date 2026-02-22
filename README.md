@@ -19,7 +19,7 @@ I build intelligent systems at the intersection of **signal processing**, **neur
 <div>
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1qb3l3eHo1OHg1NTNtNHNyaHBzYjJzMHdra2o1a2dmYWtueWE4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aqF1NcZnoqr33Adnb9/giphy.gif"
-    width="230"
+    width="210"
     align="right"
     style="margin-top:55px; margin-left:18px;"
   />
