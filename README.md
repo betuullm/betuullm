@@ -7,8 +7,11 @@
 
 I build intelligent systems at the intersection of **signal processing**, **neuroscience** and **AI-driven technologies**.
 
-<a href="mailto:betuullm01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-betuullm01%40gmail.com-2b2d42?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/betuullm" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-betuullm-2b2d42?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<a href="https://betuullm.github.io" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-betuullm-2b2d42?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://medium.com/@betuullm01">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-betuullm01-2b2d42?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
@@ -30,7 +33,7 @@ I build intelligent systems at the intersection of **signal processing**, **neur
 - Focus: **data fusion**, **signal processing**
 - Currently learning: **AI**
 - Interested in: **BCI Systems**
-- Reach me: **betuullm01@gmail.com**
+- Reach me: betuullm01@gmail.com
 
 </div>
 
