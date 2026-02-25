@@ -5,7 +5,6 @@
 # Hi, I'm Betul
 ### Software Developer • Researcher
 
-I build intelligent systems at the intersection of **signal processing**, **neuroscience** and **AI-driven technologies**.
 
 
 <a href="https://betuullm.github.io" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-betuullm-2b2d42?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -30,7 +29,7 @@ I build intelligent systems at the intersection of **signal processing**, **neur
 
 ### About me 
 
-- Focus: **data fusion**, **signal processing**
+- Focus: **data fusion**, **signal and image processing**, **AI models**
 - Currently learning: **AI**
 - Interested in: **BCI Systems**
 - Reach me: betuullm01@gmail.com
@@ -39,7 +38,7 @@ I build intelligent systems at the intersection of **signal processing**, **neur
 
 <br/>
 
-## Tech Stack 🫧
+## Tech Stack 
 <div align="left">
 
 <!-- Tech Stack Badges -->
